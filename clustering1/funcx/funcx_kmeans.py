@@ -1,4 +1,3 @@
-funcx_kmeans.py 
 from funcx.sdk.client import FuncXClient
 
 fxc = FuncXClient()
