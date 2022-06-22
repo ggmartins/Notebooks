@@ -23,7 +23,7 @@ mapclassify==2.1.1
 matplotlib==3.1.2
 mercantile==1.1.2
 munch==2.5.0
-numpy==1.18.0
+numpy==1.22.0
 pandas==0.25.3
 Pillow==7.0.0
 pyparsing==2.4.6
