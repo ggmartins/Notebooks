@@ -1,6 +1,6 @@
 appnope==0.1.0
 backcall==0.1.0
-bokeh==1.4.0
+bokeh==3.8.2
 certifi==2024.7.4
 chardet==3.0.4
 Click==7.0
